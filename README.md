@@ -1,2 +1,3 @@
-# .github
-.github
+# PicoScenes research platform
+
+Organization profile?
